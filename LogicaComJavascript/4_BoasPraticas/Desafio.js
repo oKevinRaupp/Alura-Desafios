@@ -76,8 +76,6 @@ console.log(numeroAleatorio);
 let numeroAleatorioDesafio12 = parseInt(Math.random() * 10 ) + 1;
 console.log(numeroAleatorioDesafio12);
 
-// Fim do desafio 12
-
 // Desafio 13
 
 let numeroAleatorioDesafio13 = parseInt(Math.random() * 1000) + 1;
