@@ -26,7 +26,7 @@ if (contadorDesafio3 > 0){
         contadorDesafio3--;
     }    
 } else {
-    prompt("o numero precisa ser maior que 0. ");
+    alert("o numero precisa ser maior que 0. ");
 }
 
 // Desafio 4
