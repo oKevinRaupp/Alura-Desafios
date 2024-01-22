@@ -34,6 +34,7 @@ function mediaDeTresNumeros(num1, num2, num3){
 // Desafio 5
 
 function retornaMaiorNumero(num1, num2){
+    alert("Digite dois numeros, o maior será impresso no console!")
     num1 = parseInt(prompt("Digite o primeiro numero: "));
     num2 = parseInt(prompt("Digite o segundo numero: "));
 
