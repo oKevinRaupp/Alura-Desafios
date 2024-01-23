@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Desafio 1, 2 e 3*/
+body {
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: black;
+    overflow: hidden;
+}
+
+/* Desafio 4*/
+.main {
+    display: flex;
+	align-items: center;
+    justify-content: space-between;
+	margin: 10%;
+}
+
+.titulo-blog {
+    color: lightseagreen;
+    margin: 1rem;
+    border: 1rem;
+}
+
+.container {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.responsivo-container {
+    color: brown;
+    display: flex;
+    padding: 1rem;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+  }
